@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.c": "c",
+        "uart.h": "c",
+        "ls1x_rtc.h": "c"
+    }
+}
